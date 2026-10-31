@@ -1,6 +1,6 @@
 # USD/INR basis risk
 
-Code for building a daily USD/INR forward basis curve (1M–12M), modelling it with a dynamic Nelson–Siegel state-space model that includes a 31 March year-end factor, and backtesting VaR/ES models for basis risk. The research note is available on request.
+Code for building a daily USD/INR forward basis curve (1M–12M), modelling it with a dynamic Nelson–Siegel state-space model that includes a 31 March year-end factor, and backtesting VaR/ES models for basis risk. The data should be provided by whoever is using this.
 
 ## Setup
 
